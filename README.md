@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+[![Erick's github stats](https://github-readme-stats.vercel.app/api?username=eg180)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **eg180/eg180** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
