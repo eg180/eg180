@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Erick's github stats](https://github-readme-stats.vercel.app/api?username=eg180&theme=cobalt&show_icons=true)
+![Erick's github stats](https://github-readme-stats.vercel.app/api?username=eg180&theme=dracula&show_icons=true)
 
 
 
