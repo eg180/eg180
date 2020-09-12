@@ -1,7 +1,7 @@
 ### Hi there 👋
 
+![Erick's github stats](https://github-readme-stats.vercel.app/api?username=eg180&theme=cobalt&show_icons=true)
 
-[![Erick's github stats](https://github-readme-stats.vercel.app/api?username=eg180)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![Erick's github stats](https://github-readme-stats.vercel.app/api?username=eg180)](https://github.com/anuraghazra/github-readme-stats)
 -->
