@@ -2,7 +2,7 @@
 #### I'm a developer based in Atlanta.
 ![I'm a developer based in Atlanta.](https://raw.githubusercontent.com/eg180/eg180/master/ErickGithubBanner.jpg)
 
-Will soon be open to remote roles, but I am open to on-site roles based in Tours, France. / Je cherche actuellement à travailler à distance ou bien sur place à Lyon. 🇫🇷 :D
+Will soon be open to remote roles, but I am open to on-site roles based in Tours, France. / Je cherche bientôt à travailler à distance ou sur place à Lyon. 🇫🇷 :D
 
 Skills: PYTHON / REACT / JS / HTML / CSS
 
