@@ -5,7 +5,7 @@
 I'm a developer based in Atlanta, but will soon be open to remote roles or on-site roles based in Tours France.\
 Je suis un developpeur basé à Atlanta, mais je cherche bientôt à travailler à distance ou sur place à Tours. 🇫🇷 
 
-Skills: PYTHON / REACT / JS / HTML / CSS
+Skills: NODE.JS / REACT / JS / PYTHON / CSS
 
 - 👯 I’m looking to collaborate on almost anything. Just ask. 
 - 😄 Pronouns: He/Him 
