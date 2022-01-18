@@ -2,7 +2,7 @@
 ![I'm a developer based in Atlanta.](https://raw.githubusercontent.com/eg180/eg180/master/ErickGithubBanner.jpg)
 
 ## Hi there 👋, my name is Erick.
-I'm a developer based in Atlanta, Georgia. 🍑
+I'm a developer based in Tours France. 🇫🇷
 
 Skills: NODE.JS / REACT / JS / PYTHON / CSS
 
