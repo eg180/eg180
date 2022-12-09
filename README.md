@@ -1,9 +1,7 @@
 
-![I'm a developer living in France.](https://raw.githubusercontent.com/eg180/eg180/master/ErickGithubBanner.jpg)
 
-## Hi 👋🏼
 <!-- I'm a remote software engineer currently living in France. 🇫🇷
-
+![I'm a developer living in France.](https://raw.githubusercontent.com/eg180/eg180/master/ErickGithubBanner.jpg)
 Skills: NODE.JS / REACT / JS / PYTHON / CSS
 
 - 👯 I’m looking to collaborate on almost anything. Just ask. 
